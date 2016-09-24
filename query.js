@@ -24,4 +24,7 @@ else if(opt === "%"){
     add = num1 % num2;	
 	document.write( num1 + " % " +   num2 +  " = "  + add);
 }
+else{
+	document.write("something error generate");
+}
 
